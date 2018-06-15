@@ -7,8 +7,6 @@ w = size(image,2);
 
 dp = makeSeamTable(E,h,w);
 
-avg_cost = mean(dp(h,:));
-
 for seam_num=1:w
     figure(2);
     imshow(image);
