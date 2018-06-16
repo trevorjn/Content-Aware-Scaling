@@ -14,7 +14,7 @@ Gradient magnitude:
 ![artorias_energy](https://user-images.githubusercontent.com/15223179/41494323-8cf6e430-70c6-11e8-9c5d-8930b9de640c.jpg)
 
 
-Cumulative energy:
+Cumulative seam costs:
 
 ![artorias_dp](https://user-images.githubusercontent.com/15223179/41494324-8f6840a6-70c6-11e8-8cd1-bbc62ebcc2d7.jpg)
 
@@ -22,6 +22,3 @@ Cumulative energy:
 Minimum cost seams:
 
 ![artorias_seams](https://user-images.githubusercontent.com/15223179/41494325-91dc5520-70c6-11e8-8ebc-a6385b5f55d4.jpg)
-
-Image Scaled to 50% Original Width:
-
